@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/planificador-semanal/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/planificador-semanal/static/js/main.171b4dea.chunk.js",
-    "main.js.map": "/planificador-semanal/static/js/main.171b4dea.chunk.js.map",
+    "main.css": "/planificador-semanal/static/css/main.fdbeff76.chunk.css",
+    "main.js": "/planificador-semanal/static/js/main.ebd2559e.chunk.js",
+    "main.js.map": "/planificador-semanal/static/js/main.ebd2559e.chunk.js.map",
     "runtime-main.js": "/planificador-semanal/static/js/runtime-main.2634a6e4.js",
     "runtime-main.js.map": "/planificador-semanal/static/js/runtime-main.2634a6e4.js.map",
-    "static/js/2.e24d77db.chunk.js": "/planificador-semanal/static/js/2.e24d77db.chunk.js",
-    "static/js/2.e24d77db.chunk.js.map": "/planificador-semanal/static/js/2.e24d77db.chunk.js.map",
+    "static/js/2.ffdd16ea.chunk.js": "/planificador-semanal/static/js/2.ffdd16ea.chunk.js",
+    "static/js/2.ffdd16ea.chunk.js.map": "/planificador-semanal/static/js/2.ffdd16ea.chunk.js.map",
     "static/js/3.1c4f24e6.chunk.js": "/planificador-semanal/static/js/3.1c4f24e6.chunk.js",
     "static/js/3.1c4f24e6.chunk.js.map": "/planificador-semanal/static/js/3.1c4f24e6.chunk.js.map",
     "index.html": "/planificador-semanal/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/planificador-semanal/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.e24d77db.chunk.js.LICENSE.txt": "/planificador-semanal/static/js/2.e24d77db.chunk.js.LICENSE.txt"
+    "static/css/main.fdbeff76.chunk.css.map": "/planificador-semanal/static/css/main.fdbeff76.chunk.css.map",
+    "static/js/2.ffdd16ea.chunk.js.LICENSE.txt": "/planificador-semanal/static/js/2.ffdd16ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2634a6e4.js",
-    "static/js/2.e24d77db.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.171b4dea.chunk.js"
+    "static/js/2.ffdd16ea.chunk.js",
+    "static/css/main.fdbeff76.chunk.css",
+    "static/js/main.ebd2559e.chunk.js"
   ]
 }
