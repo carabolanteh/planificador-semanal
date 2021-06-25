@@ -5,9 +5,34 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: rgb(112,112,112);
+background: linear-gradient(243deg, rgba(112,112,112,1) 0%, rgba(255,255,255,1) 98%);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.text-area{
+  min-height: 12rem;
+  max-height: 12rem;
+}
+
+.card-width{
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  width: 100%;
+  height: 17rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+.row-width{
+  width: 30%;
+  margin: 5px;
+  
+}
+h2{
+  color: rgb(89, 0, 92);
+  text-shadow: 2px 2px 0px rgb(5, 3, 3);
 }
